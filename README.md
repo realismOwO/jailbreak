@@ -1,3 +1,3 @@
 # Jailbreak
 
-basically just another roblox jailbreak
+basically just another roblox jailbreak script
